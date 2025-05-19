@@ -9,7 +9,7 @@ body{
     color: darkturquoise;
 }
 .border{
-    border-width: 15px;
+    border-width: 20%;
     border-color: black;
     border-style: double;
 }
