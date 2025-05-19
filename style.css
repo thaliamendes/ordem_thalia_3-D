@@ -1,6 +1,10 @@
 body{
     background-color: rgb(47, 201, 201);
 }
-h2{
+.perguntas{
+
     color: rgb(214, 165, 4);
+}
+.cor-padrão{
+    color: rgb(170, 122, 2);
 }
