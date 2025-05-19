@@ -8,3 +8,8 @@ body{
 .cor-padrão{
     color: darkturquoise;
 }
+.border{
+    border-width: 15px;
+    border-color: black;
+    border-style: double;
+}
