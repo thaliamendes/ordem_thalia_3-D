@@ -1,9 +1,7 @@
 body{
     background-color: darkcyan;
 }
-.cor pradrão{
-    color: black;
-}
-.div{
+h2{
     color: darkgoldenrod;
+    padding: 10;
 }
