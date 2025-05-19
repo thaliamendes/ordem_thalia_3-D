@@ -1,18 +1,14 @@
 body{
-    background-color: rgb(0, 3, 3);
+    background-color: rgb(0, 0, 0);
 }
 .perguntas{
 
     color: rgb(214, 165, 4);
 }
 .cor-padrão{
-    color: darkturquoise;
+    color: rgb(255, 255, 255);
 }
 .border{
     border-width: 20%;
     border-color: black;
     border-style: double;
-}
-.titulo{
-    color: white;
-}
